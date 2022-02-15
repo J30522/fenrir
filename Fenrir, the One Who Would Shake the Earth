@@ -1,1 +1,16 @@
-
+"title": "<Febrir>",
+  "description": "<A significantly reimagined story of Temujin, who the world will soon come to know as Genghis Khan, from his early beginning in the steppe and his chance meeting with a mysterious woman who claims to be the Fenrir, the One Who Would Shake the Earth, to his ultimate destiny as the ruler of all.>",
+  "artist": "<Oonishi Mioko>",
+  "author": "<Akamatsu Chuugaku>",
+  "cover": "<https://i.imgur.com/cOTnBXQ.png>",
+  "chapters": {
+    "<1>": {
+      "title": "<The One Who Would Shake the Earth, part 1>",
+      "volume": "<1>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<0mznBwe>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
